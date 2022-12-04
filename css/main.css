@@ -112,7 +112,7 @@ body{
   display: flex;
   align-items: center;
   background: #FFFFFF;
-  padding: 24px 112px;
+  padding: 24px 0;
 }
 
 .links-list {
